@@ -13,8 +13,6 @@
 
 Google Workshop ([firebase.google.com/codelabs/firebase-web](https://firebase.google.com/codelabs/firebase-web))
 
-<!-- [firebase.google.com/codelabs/firebase-web](https://firebase.google.com/codelabs/firebase-web) -->
-
 Firebase Sample Code ([github.com/firebase/codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web))
 
-<!-- [github.com/firebase/codelab-friendlychat-web](https://github.com/firebase/codelab-friendlychat-web) -->
+[Zoom link](https://columbiauniversity.zoom.us/j/92418537037?pwd=LzJMa2ZWT2I5OUxXWXpqSzlQWkhDZz09)
